@@ -20,6 +20,7 @@
 
 ```buildoutcfg
     pip3 install -r requirements.txt
+    python3 manage.py runserver
 ```
 
 3. Admin Username:Christian, password:testing321 and you are good to go.
